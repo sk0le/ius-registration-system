@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1734470211 source:/home/skole/projects/ius-registration-system/main.cpp
+	<iostream>
+	<unistd.h>
+	"screen.h"
+
+1734470121 source:/home/skole/projects/ius-registration-system/screen.cpp
+	<stdlib.h>
+	"screen.h"
+
+1734469661 /home/skole/projects/ius-registration-system/screen.h
+	<string>
+
